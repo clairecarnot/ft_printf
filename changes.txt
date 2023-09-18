@@ -1,0 +1,7 @@
+ft_printf(NULL)
+- dans ft_printf : correction de la valeur de retour a -1
+- dans le main: correction du test ft_printf(NULL)
+
+testeurs:
+tripouille
+paulo-santana
